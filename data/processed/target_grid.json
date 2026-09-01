@@ -1,0 +1,13 @@
+{
+    "crs": "EPSG:32643",
+    "res": 1000.0,
+    "bounds": [
+        359000.0,
+        3595000.0,
+        1018000.0,
+        4115000.0
+    ],
+    "width": 659,
+    "height": 520,
+    "ref_path": "data\\raw\\srtm\\srtm_jk_dem.tif"
+}

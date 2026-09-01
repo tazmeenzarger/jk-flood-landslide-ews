@@ -1,0 +1,24 @@
+# ===== RAW DATA (never needed for the app) =====
+data/raw/
+
+# ===== HEAVY TRAINING ARTIFACTS =====
+data/processed/aligned/
+data/processed/terrain/
+data/processed/features.csv
+data/processed/himalayan_flood_matrix.csv
+data/processed/temporal_matrix.csv
+data/processed/temporal_ls_matrix.csv
+data/processed/consistency_check.csv
+data/processed/j_k_landslide_inventory.csv
+data/processed/flood_inventory_*.csv
+
+# ===== LARGE DATA FORMATS (safety net) =====
+*.gpkg
+*.zip
+
+# ===== PYTHON / ENV =====
+__pycache__/
+*.pyc
+.venv/
+env/
+.vscode/

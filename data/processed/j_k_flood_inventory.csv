@@ -1,0 +1,81 @@
+Began,Ended,Country,MainCause,Severity
+1985-07-18,1985-07-30,India,Heavy rain,1
+1988-07-04,1988-08-08,India,Monsoonal rain,2
+1988-07-18,1988-08-05,Pakistan,Monsoonal rain,1
+1988-09-21,1988-10-08,India,Heavy rain,2
+1989-07-29,1989-08-07,Pakistan,Monsoonal rain,1
+1990-03-21,1990-03-22,India,Torrential rain,1
+1990-05-16,1990-05-18,Pakistan,Heavy rain,1
+1990-05-17,1990-05-18,Tajikistan,Heavy rain,1
+1990-07-03,1990-07-24,India,Monsoonal rain,1
+1990-07-10,1990-07-12,Pakistan,Heavy rain,1
+1991-06-11,1991-06-12,Pakistan,Heavy rain,1
+1991-08-15,1991-08-29,India,Monsoonal rain,1
+1992-04-15,1992-06-09,Tajikistan,Heavy rain,1
+1992-09-08,1992-09-18,"Pakistan,India",Monsoonal rain,2
+1994-07-01,1994-07-24,India,Monsoonal rain,1
+1994-07-03,1994-07-12,India,Monsoonal rain,1
+1994-07-11,1994-09-16,Pakistan,Monsoonal rain,1
+1994-08-08,1994-08-10,India,Torrential rain,1
+1994-08-20,1994-08-23,India,Torrential rain,1
+1995-07-19,1995-08-10,Pakistan,Monsoonal rain,1
+1995-09-01,1995-09-20,India,Monsoonal rain,1
+1996-09-02,1996-09-07,Pakistan,Heavy rain,2
+1997-08-08,1997-08-14,India,Monsoonal rain,1
+1997-08-12,1997-09-03,Pakistan,Monsoonal rain,2
+1997-07-25,1997-07-29,Pakistan,Monsoonal rain,1
+1997-07-25,1997-07-28,Pakistan,Monsoonal rain,1
+1997-08-22,1997-08-26,India,Monsoonal rain,1
+1998-04-24,1998-04-27,Tajikistan,Rain and snowmelt,2
+2000-07-31,2000-08-04,India,Torrential rain,1
+2001-07-22,2001-07-25,Pakistan,Torrential rain,1
+2001-08-14,2001-08-15,India,Heavy rain,1
+2003-02-15,2003-02-24,Pakistan,Heavy rain,1
+2003-07-15,2003-09-01,"Pakistan,India",Monsoonal rain,1
+2004-08-01,2004-09-08,"India,Pakistan",Monsoonal rain,1
+2005-06-21,2005-08-05,"Pakistan,Afghanistan",Snowmelt,2
+2005-06-26,2005-06-29,India,Heavy rain,1
+2005-07-05,2005-08-14,"Pakistan,India",Monsoonal rain,1
+2005-08-05,2005-08-14,China,Heavy rain,1
+2005-09-16,2005-10-05,India,Monsoonal rain,1
+2006-07-11,2006-07-12,Pakistan,Heavy rain,1
+2006-07-24,2006-08-22,"Pakistan,India",Monsoonal rain,1
+2006-08-31,2006-09-11,"India,Pakistan",Monsoonal rain,1
+2007-03-20,2007-03-31,India,Heavy rain,1
+2007-08-12,2007-08-17,India,Monsoonal rain,1
+2007-08-12,2007-08-14,Pakistan,Heavy rain,1
+2008-08-09,2008-08-20,Pakistan,Heavy monsoon rains,1.5
+2008-09-22,2008-09-29,Nepal,Monsoonal Rain,2
+2009-08-15,2009-08-17,Pakistan,Torrential rain,1.5
+2010-05-08,2010-05-23,Pakistan,Heavy rain,1
+2010-07-05,2010-07-15,India,Monsoonal Rain,1
+2010-07-27,2010-11-15,Pakistan,Monsoonal Rain,2
+2010-08-06,2010-08-08,India,Torrential rain,1.5
+2011-08-25,2011-08-29,Pakistan,Monsoonal Rain,2
+2012-08-23,2012-08-29,Pakistan,Monsoonal Rain,1.5
+2012-09-16,2012-09-18,India,Torrential rain,2
+2013-06-12,2013-06-27,India,Monsoonal Rain,1.5
+2013-08-01,2013-08-07,"Pakistan,Afghanistan",Heavy rain,1.5
+2013-08-07,2013-08-21,Pakistan,Monsoon Rain began with ReportNumber=4078,1.5
+2014-09-01,2014-10-11,"Pakistan,India",Monoonal Rain,2
+2015-03-20,2015-03-31,India,Heavy rain,1.5
+2015-05-11,2015-05-21,Tajikistan,Torrential rain,1
+2015-06-25,2015-06-29,Pakistan,Torrential rain,1.5
+2015-07-15,2015-08-19,Pakistan,Monsoonal Rain,1.5
+2015-07-15,2015-07-21,Tajikistan,Snowmelt,1.5
+2015-07-15,2015-08-19,India,Monsoonal Rain and Tropical Storm K,2
+2016-03-12,2016-04-13,Pakistan,Heavy rain,1.5
+2016-07-03,2016-07-06,Pakistan,Heavy rain,1.5
+2017-06-25,2017-07-03,Pakistan,Monsoonal Rain,1
+2017-08-03,2017-08-10,Pakistan,Torrential rain,1.5
+2017-08-10,2017-08-26,India,Monsoonal Rain,2
+2018-06-25,2018-07-11,"India,Pakistan",Monsoonal Rain,1
+2018-07-03,2018-07-11,Pakistan,Monsoonal Rain,1
+2018-09-23,2018-10-02,India,Torrential rain,1
+2019-07-07,2019-07-13,Pakistan,Glacial Lake Outburst,2
+2020-03-06,2020-03-17,Pakistan,Heavy rain,1.5
+2021-07-28,2021-07-29,Pakistan,Torrential rain,1.5
+2021-07-27,2021-07-29,India,Torrential rain,1.5
+2022-07-08,2022-07-09,India,Torrential rain,1
+2022-08-15,2022-08-27,Pakistan,Monsoonal rain,2
+2022-08-19,2022-08-21,India,Monsoonal rain,1

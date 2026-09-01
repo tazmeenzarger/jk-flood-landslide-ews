@@ -1,0 +1,17 @@
+dem
+slope
+twi
+landcover
+soil_sand
+soil_clay
+soil_cfvo
+rain_annual_norm
+rain_monsoon_norm
+snow_winter
+snow_spring
+rain_event_7d
+rain_antecedent_30d
+rain_max_daily
+runoff_event_7d
+runoff_antecedent_30d
+runoff_max_daily
