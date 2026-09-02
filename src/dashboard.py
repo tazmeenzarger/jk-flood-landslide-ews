@@ -130,8 +130,10 @@ rec_7_30 = r7 / max(r30, 1.0)
 ros_flag = int((r7 >= 20) and (snow >= 10))
 # --- INPUT CONSISTENCY GUARDS ---
 guard_msgs = []
-if r7 > r30 or r30 > r90 or max3 > r30 or max3 > r7:
-    guard_msgs.append("Rain windows must nest (7d <= 30d <= 90d) - current inputs are physically impossible.")
+if r7 > r30 or r30 > r90:
+    guard_msgs.append("Rain windows must nest (7d <= 30d <= 90d).")
+if max3 > r30 or max3 > r7:
+    guard_msgs.append("Max 3-day rain cannot exceed the 7-day and 30-day totals.")
 if (rec_30_90 > 0.65) and (rain_30d_p > 0.90):
     guard_msgs.append("30-day total is an extreme share of the 90-day total - outside the observed climatology.")
 if guard_msgs:
